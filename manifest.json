@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "date": "2026-07-19",
+  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/v2.0/TS4_GerenMods_2.0.zip",
+  "sha256": "COLOCAR_SHA256_DO_ZIP_AQUI",
+  "changelog": [
+    "Versão base do sistema de atualizações do TS4 GerenMods.",
+    "Este manifesto será usado pelo programa para verificar novas versões."
+  ],
+  "required": false
+}
