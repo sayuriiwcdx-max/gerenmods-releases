@@ -1,4 +1,18 @@
 {
+  "version": "2.2.0",
+  "date": "2026-08-06",
+  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.0/TS4_GerenMods.zip",
+  "sha256": "D0D531C8C1A97030B2CFD94EC01FD9DD61FBCA96AF51471A17B5562F0DD13248",
+  "required": false,
+  "changelog": [
+    "Seleção estável por caixas, com selecionar e desmarcar todos os mods visíveis.",
+    "Seleção preservada durante a rolagem, com atalhos Ctrl+A e Esc.",
+    "Ações em lote para excluir ou mover mods marcados para a quarentena.",
+    "Contagem de arquivos e tamanho total dos mods selecionados.",
+    "Ações rápidas reorganizadas e limpeza dos caches do The Sims 4.",
+    "Ajuda atualizada e melhorias de estabilidade, interface e atualizações."
+  ]
+}{
   "version": "2.1.0",
   "date": "2026-07-22",
   "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.1.0/TS4_GerenMods_v2.1.0_2026-07-22.zip",
