@@ -12,15 +12,4 @@
     "Ações rápidas reorganizadas e limpeza dos caches do The Sims 4.",
     "Ajuda atualizada e melhorias de estabilidade, interface e atualizações."
   ]
-}{
-  "version": "2.1.0",
-  "date": "2026-07-22",
-  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.1.0/TS4_GerenMods_v2.1.0_2026-07-22.zip",
-  "sha256": "5C439B6CB49645D42991A4348B68D5E290AD085B32383083ECCBF0F6C4E3154A",
-  "required": false,
-  "changelog": [
-    "Melhorias de estabilidade e seleção de mods.",
-    "Aprimoramentos visuais e de desempenho.",
-    "Verificação de atualizações dentro do programa."
-  ]
 }
