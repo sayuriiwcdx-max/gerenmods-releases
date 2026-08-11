@@ -1,10 +1,10 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "date": "2026-08-10",
-  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.1/TS4_GerenMods.zip",
-  "sha256": "46AE187942FCD916163356D62A4C0B8AE2821CD73138998838C390A10729B721",
+  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.2/TS4_GerenMods.zip",
+  "sha256": "553BB04A8B94C91E27D199FC8F725AB18268EEDEB2F5CA6EF37986BF96FC16E6",
   "required": false,
   "changelog": [
-    "Novo botão Patreon da SayuriiW abaixo de Apoie com um Plumbob."
+    "Instalação automática de atualizações com reinício do GerenMods."
   ]
 }
