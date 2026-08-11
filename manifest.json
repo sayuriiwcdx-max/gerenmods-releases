@@ -1,10 +1,10 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "date": "2026-08-10",
-  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.2/TS4_GerenMods.zip",
-  "sha256": "553BB04A8B94C91E27D199FC8F725AB18268EEDEB2F5CA6EF37986BF96FC16E6",
+  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.3/TS4_GerenMods.zip",
+  "sha256": "DEA408311A0A122BDEBDF98C02F1C223BD55BEFE40C4813CD8A186FA2F860DB0",
   "required": false,
   "changelog": [
-    "Instalação automática de atualizações com reinício do GerenMods."
+    "Correção do corte no botão Patreon e refinamento do painel de ações."
   ]
 }
