@@ -1,10 +1,10 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.5",
   "date": "2026-08-11",
-  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.4/TS4_GerenMods.zip",
-  "sha256": "1C3A0CBDBF4872EA92023EA5543D66BC9E0E12361C48090C0B3D1701B3FD9F85",
+  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.5/TS4_GerenMods.zip",
+  "sha256": "86AB04D3A01B190F9F3DB5C036C388530C5C460CB4D02AD10BF38978D13A5B68",
   "required": false,
   "changelog": [
-    "Instalacao com um clique e restauracao segura dos cursores do The Sims 4 no Windows."
+    "Correcao do corte no botao Patreon apos a inclusao do instalador rapido de cursores."
   ]
 }
