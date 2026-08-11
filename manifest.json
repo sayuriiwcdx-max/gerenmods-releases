@@ -1,10 +1,10 @@
 {
-  "version": "2.2.3",
-  "date": "2026-08-10",
-  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.3/TS4_GerenMods.zip",
-  "sha256": "DEA408311A0A122BDEBDF98C02F1C223BD55BEFE40C4813CD8A186FA2F860DB0",
+  "version": "2.2.4",
+  "date": "2026-08-11",
+  "downloadUrl": "https://github.com/sayuriiwcdx-max/gerenmods-releases/releases/download/2.2.4/TS4_GerenMods.zip",
+  "sha256": "1C3A0CBDBF4872EA92023EA5543D66BC9E0E12361C48090C0B3D1701B3FD9F85",
   "required": false,
   "changelog": [
-    "Correção do corte no botão Patreon e refinamento do painel de ações."
+    "Instalacao com um clique e restauracao segura dos cursores do The Sims 4 no Windows."
   ]
 }
